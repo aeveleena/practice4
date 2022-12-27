@@ -1,0 +1,3 @@
+C:/Users/abram/CLionProjects/pr4ctice/cmake-build-debug/CMakeFiles/pr4ctice.dir
+C:/Users/abram/CLionProjects/pr4ctice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abram/CLionProjects/pr4ctice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
